@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Daily Sales Outlook", "Daily Sales Outlook\Daily Sales Outlook.rptproj", "{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.Debug|Default.ActiveCfg = Debug
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.Debug|Default.Build.0 = Debug
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.Debug|Default.Deploy.0 = Debug
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.DebugLocal|Default.Build.0 = DebugLocal
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.Release|Default.ActiveCfg = Release
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.Release|Default.Build.0 = Release
+		{2B1B3134-9880-4CDB-A060-82EB6FDCC0A6}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7EB82F-E417-4D46-8428-8157617075F4}
+	EndGlobalSection
+EndGlobal
